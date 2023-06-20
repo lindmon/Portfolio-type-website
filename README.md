@@ -1,2 +1,2 @@
-# Test-repo
-Some css from tutorial
+## Travelly - one page website
+One page website for learning purposes. 
